@@ -1,1 +1,2 @@
-echo "x=1"
+echo "x=6"
+echo "x=7"
